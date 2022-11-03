@@ -13,7 +13,7 @@ print(cooking.upper(), food, "with", burned, plant, "on a bed of", item)
 def endGame():
   while True:
     print()
-    x= input("""Thank you for reading!
+    x= input("""Thank you for playing the game!
 To read again please click Stop on top right page and click Run """)
     print()
     continue
